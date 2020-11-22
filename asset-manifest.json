@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/seasondisplay/static/css/main.b61d4c26.chunk.css",
+    "main.js": "/seasondisplay/static/js/main.6b9d55c5.chunk.js",
+    "main.js.map": "/seasondisplay/static/js/main.6b9d55c5.chunk.js.map",
+    "runtime-main.js": "/seasondisplay/static/js/runtime-main.53cbf6e5.js",
+    "runtime-main.js.map": "/seasondisplay/static/js/runtime-main.53cbf6e5.js.map",
+    "static/js/2.755a9aac.chunk.js": "/seasondisplay/static/js/2.755a9aac.chunk.js",
+    "static/js/2.755a9aac.chunk.js.map": "/seasondisplay/static/js/2.755a9aac.chunk.js.map",
+    "static/js/3.84f857f3.chunk.js": "/seasondisplay/static/js/3.84f857f3.chunk.js",
+    "static/js/3.84f857f3.chunk.js.map": "/seasondisplay/static/js/3.84f857f3.chunk.js.map",
+    "index.html": "/seasondisplay/index.html",
+    "static/css/main.b61d4c26.chunk.css.map": "/seasondisplay/static/css/main.b61d4c26.chunk.css.map",
+    "static/js/2.755a9aac.chunk.js.LICENSE.txt": "/seasondisplay/static/js/2.755a9aac.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/seasondisplay/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53cbf6e5.js",
+    "static/js/2.755a9aac.chunk.js",
+    "static/css/main.b61d4c26.chunk.css",
+    "static/js/main.6b9d55c5.chunk.js"
+  ]
+}
